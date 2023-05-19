@@ -188,8 +188,8 @@
 								<include>.gitignore</include>
 							</includes>
 							<!-- define the steps to apply to those files -->
-							<trimTrailingWhitespace />
-							<endWithNewline />
+							<trimTrailingWhitespace/>
+							<endWithNewline/>
 							<indent>
 								<spaces>true</spaces>
 								<spacesPerTab>2</spacesPerTab>
@@ -507,7 +507,7 @@
 		<dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-api</artifactId>
-			<version>1.7.30</version>
+			<version>1.7.36</version>
 		</dependency>
 
 
